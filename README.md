@@ -1,4 +1,4 @@
-### Hi there 👋
+- 🌱 I’m currently learning about AI in healthcare and AI productivity tools...
 
 <!--
 **susleivt24/susleivt24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
